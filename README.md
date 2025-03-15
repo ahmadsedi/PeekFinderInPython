@@ -1,6 +1,6 @@
 # Peek Finder in Python
 ## Problem
-This is the python version of repository <a href="Peek Finder in Java">https://github.com/ahmadsedi/peek_finder</a><br>
+This is the python version of repository <a href="https://github.com/ahmadsedi/peek_finder">Peek Finder in Java</a><br>
 Given a list of integers -representing for example series of weather temperature in one area- we need a function to find the 'peek' number. 
 A number is called a peek, if the difference between that number and its 
 previous number is the greatest in the series. For example in array of {1, 2, 5, 6} the peek is happening at index 2, 
